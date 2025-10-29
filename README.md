@@ -12,3 +12,7 @@
 
 > A Quantum Rift has a preset MythicMob in it, which you can configure. All Files will be Pre generated.
 > Once the Mob is Slain, the Quantum Rift Closes.
+
+### Coming Soon (Planned)
+
+> Be able to create your own Quantum Rifts, not based off of Presets.
