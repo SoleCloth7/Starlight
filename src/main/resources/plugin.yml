@@ -1,0 +1,4 @@
+name: Starlight
+version: '1.0-SNAPSHOT'
+main: org.solecloth7.starlight.Starlight
+api-version: '1.21'
